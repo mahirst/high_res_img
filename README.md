@@ -1,2 +1,3 @@
-# high_res_img
-Changing images saved in R into high-resolution images
+# Increase image resolution in R
+
+Simple code for increasing resolution for images created in R.
